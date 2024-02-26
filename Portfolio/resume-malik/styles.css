@@ -1,0 +1,31 @@
+<link rel="stylesheet" type="text/css" href="styles/styles.css">
+    h1 {
+        color: black;
+    }
+    p {
+        <color: grey;
+    }
+    body {
+        background-color: pink;
+    }
+    .green-text {
+        color: grey;
+    }
+    .important:hover {
+        background-color:blue;
+    }
+    a[href="www.linkedin.com/in/malik-bradley-322001164"] {
+        background-color:red;
+    }
+    a[href="https://www.steelers.com/"] {
+        background-color:rgb(255, 0, 0);
+    }
+    h1 {
+        color:aqua;
+        border-style: double;
+        border-width: 1 px;
+        border-color: aqua;
+    }
+    p.important {
+        width:50%;
+    }
